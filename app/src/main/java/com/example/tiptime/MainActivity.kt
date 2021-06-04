@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         if(binding.roundUpSwitch.isChecked) {
             tip = kotlin.math.ceil(tip)
         }
-        
+
         displayTip(tip)
     }
 
