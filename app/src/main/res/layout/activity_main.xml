@@ -24,7 +24,7 @@
         android:hint="@string/cost_of_service"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginStart="16dp"
+        android:layout_marginStart="35dp"
         app:layout_constraintStart_toEndOf="@id/icon_cost_of_service">
 
         <com.google.android.material.textfield.TextInputEditText
@@ -101,7 +101,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/tip_options"
-        android:layout_marginStart="16dp"
+        android:layout_marginStart="35dp"
         app:layout_constraintStart_toEndOf="@id/icon_round_up"/>
 
     <Button
